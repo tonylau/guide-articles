@@ -1,5 +1,5 @@
 ---
-title: Get Current Url In javaScript
+title: Get current URL in JavaScript
 ---
 To get the **current URL**:
 
